@@ -1,3 +1,7 @@
+.color-primary{
+    background-color: #2fb5d2;
+}
+
 .card-products-home{
     width: 15em;
     box-shadow: 5px 5px 5px rgb(161, 161, 161);
@@ -71,6 +75,20 @@
     -webkit-transition: background 0.25s ease;
     -moz-transition: background 0.25s ease;
     -ms-transition: background 0.25s ease;
+}
+
+.card-mini-image{
+    width: 40%;
+    border: #2fb5d2 4px solid;
+}
+
+footer{
+    background-color: #000000;
+    color: white;
+}
+
+body{
+    background-color: #f1f1f1;
 }
 
 
